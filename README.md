@@ -4,11 +4,11 @@ A real-time interactive dashboard built with Python, Streamlit, and the OpenWeat
  Features
  Real-time weather data using OpenWeatherMap API
 
-🌡️ Key metrics: Temperature, Feels Like, Humidity, Pressure, Wind Speed, Cloudiness, and more
+ Key metrics: Temperature, Feels Like, Humidity, Pressure, Wind Speed, Cloudiness, and more
 
-🕒 Sunrise, Sunset, and Daylight Duration calculation
+ Sunrise, Sunset, and Daylight Duration calculation
 
-📊 Visualizations: bar plots, line charts, histograms, pie charts, jointplots, boxplots
+ Visualizations: bar plots, line charts, histograms, pie charts, jointplots, boxplots
 
 🌐 Covers major global cities for a comparative overview
 
