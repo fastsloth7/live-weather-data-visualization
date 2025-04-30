@@ -68,7 +68,7 @@ Matplotlib
  API Used
 OpenWeatherMap Current Weather API
 
-🧠 Learning Outcome
+Learning Outcome
 Working with real-time APIs
 
 Building Streamlit apps for data presentation
