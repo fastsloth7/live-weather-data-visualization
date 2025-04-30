@@ -10,9 +10,9 @@ A real-time interactive dashboard built with Python, Streamlit, and the OpenWeat
 
  Visualizations: bar plots, line charts, histograms, pie charts, jointplots, boxplots
 
-🌐 Covers major global cities for a comparative overview
+ Covers major global cities for a comparative overview
 
-⚡ Built with Streamlit for fast deployment and interactive viewing
+ Built with Streamlit for fast deployment and interactive viewing
 
 📂 Project Structure
 graphql
