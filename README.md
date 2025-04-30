@@ -52,7 +52,7 @@ streamlit run weather_dashboard.py
 📷 Screenshots
 (Add screenshots of your Streamlit app here for better visualization.)
 
-📌 Requirements
+Requirements
 Python 3.7+
 
 Streamlit
