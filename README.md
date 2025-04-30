@@ -77,7 +77,7 @@ Performing EDA and visualizations
 
 Converting raw JSON data into insightful visuals
 
-🤝 Contributing
+Contributing
 Pull requests and improvements are welcome!
 
 📜 License
