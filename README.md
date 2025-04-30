@@ -2,7 +2,7 @@
 A real-time interactive dashboard built with Python, Streamlit, and the OpenWeatherMap API that visualizes weather conditions across 50+ major cities around the world. This project integrates data fetching, cleaning, and advanced visualizations into a clean and informative web app.
 
  Features
-📍 Real-time weather data using OpenWeatherMap API
+ Real-time weather data using OpenWeatherMap API
 
 🌡️ Key metrics: Temperature, Feels Like, Humidity, Pressure, Wind Speed, Cloudiness, and more
 
