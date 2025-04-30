@@ -1,4 +1,4 @@
-🌦Live Weather Data Dashboard
+Live Weather Data Dashboard
 A real-time interactive dashboard built with Python, Streamlit, and the OpenWeatherMap API that visualizes weather conditions across 50+ major cities around the world. This project integrates data fetching, cleaning, and advanced visualizations into a clean and informative web app.
 
  Features
@@ -14,7 +14,7 @@ A real-time interactive dashboard built with Python, Streamlit, and the OpenWeat
 
  Built with Streamlit for fast deployment and interactive viewing
 
-📂 Project Structure
+Project Structure
 graphql
 Copy
 Edit
